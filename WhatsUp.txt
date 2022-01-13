@@ -1,0 +1,12 @@
+1. Learning the selenium
+2. Installation
+3. Configuration
+4. Bacis selnium features
+5. Advance selenium features
+6. Learning java basics
+7. Coding
+8. Practice
+9. Executing
+10. Testing
+11. Learn TestNG Concepts
+12. Learn Data Driven FramWork Concepts
