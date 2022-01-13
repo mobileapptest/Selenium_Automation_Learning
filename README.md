@@ -1,2 +1,2 @@
-# WhatsUp_Development
-Whatsapp developemnt code are in this Repository
+# Selenium_Automation_Learning
+Selenium automation learning code are stored in this repository
